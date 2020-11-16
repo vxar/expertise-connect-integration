@@ -1,6 +1,6 @@
 site_name: Telco Integrator
 site_description: describe asset
-theme: readthedocs
+theme: windmill
 nav:
 - Overview: index.md
 - Business Case: biz_case.md
