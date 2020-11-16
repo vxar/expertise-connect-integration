@@ -1,9 +1,11 @@
-#Introduction: IBM and the TM Forum API Ecosystem
+# Introduction: IBM and the TM Forum API Ecosystem
 
 The Telemanagement Forum, commonly referred to as "TM Forum", is a nonprofit industry association for service providers and their suppliers in the telecommunications and entertainment industries. Members of this association include telephone companies, cable operators, network operators, software suppliers, equipment suppliers and systems integrators. TM Forum members, including the world’s largest service providers and suppliers such as IBM, have been working to develop APIs that support the TM Forum API Ecosystem.
 
-The TM Forum API Ecosystem is a family of over 50 REST APIs designed to make it easier to create, build and operate complex innovative services. This set of standard interfaces enables rapid, repeatable and flexible integration among operations and management systems. The APIs are based on the Business Process Framework (called eTOM), which is a critical component of Frameworx. Designed to enable end-to-end services for today’s digital economy, Frameworx is the TM Forum’s blueprint for successful business transformation.
+The TM Forum API Ecosystem is a family of over 50 REST APIs designed to make it easier to create,build and operate complex innovative services. This set of standard interfaces enables rapid, repeatable and flexible integration among operations and management systems. The APIs are based on the Business Process Framework (called eTOM), which is a critical component of Frameworx. Designed to enable end-to-end services for today’s digital economy, Frameworx is the TM Forum’s blueprint for successful business transformation.
+
 In the digital economy age, services are typically delivered through a sophisticated partnering of multiple providers that all use different systems and interfaces. The TM Forum REST-based APIs are designed for uses ranging from Internet of Things (IoT) device management to complex B2B value fabrics. They apply to API-driven scenarios such as IoT, digital health, smart grids, big data, Network Functions Virtualization (NFV), next-generation operations support systems, business support systems (OSS/BSS) and more.
+
 To date, 71 of the world’s leading communications service providers (CSPs) and technology ecosystem participants (including IBM) have signed the Open API Manifesto, publicly demonstrating their endorsement of TM Forum’s suite of Open APIs. The IBM Executive Sponsor for the TM Forum Open API Manifesto is **Marisa Viveros, VP Strategy & Offerings – Telecom, Media and Entertainment Industries**.
 
 This document describes the Open API Accelerator for Telco built by IBM Expertise Connect. The Accelerator is a Cloud-native asset based on IBM Cloud Pak for Integration and leverages IBM Cloud Pak for Data for AI infusion.
@@ -19,39 +21,39 @@ This asset also provides a framework for existing customers who use the Telco Pa
 
 
 
-#Business Case for Open apis
-##Dramatically improving business & IT agility
+# Business Case for Open apis
+## Dramatically improving business & IT agility
 Open APIs enable a modular platform architecture, allowing CSPs to abstract underlying complexity and establish a set of platform capabilities which can be used to radically reduce time-to-market for new services and the cost of creating and operating these new services.
 
-##Enabling a global wholesale connectivity ecosystem
+## Enabling a global wholesale connectivity ecosystem
 The current wholesale ecosystem is laden with inefficient and largely manual processes which are not viable in a world of Software-Defined Networks and Network Functions Virtualization. By implementing Open APIs for IT, operators can radically improve and simplify provisioning, flexibility and scalability of wholesale services. This enables operators to work together to deliver network services at global scale which can compete effectively in today’s market.
 
-##Reducing integration cost, risk and time for the entire supply chain
+## Reducing integration cost, risk and time for the entire supply chain
 With service providers under increasing pressure to improve IT efficiency and overall agility, the costs and risks associated with point-to-point integrations need to be reduced. TM Forum Open APIs, in combination with the established Frameworx standards, provide a pragmatic way to dramatically cut the time and risks associated with systems transformation projects, ongoing maintenance and future change requests.
 
-##Reducing the cost and complexity of CSP operations
+## Reducing the cost and complexity of CSP operations
 Large operator groups with 20+ regional businesses need to reduce cost, simplify operations and crate harmony across geographic regions and the globe in order to deploy new group-wide or region-wide product offerings.
 
 
-#Hybrid Integration Reference Architecture
+# Hybrid Integration Reference Architecture
 
 
 
-#Accelerator Solution Overview
+# Accelerator Solution Overview
 
 
-#IBM Cloud Pak for Integration: capabilities
+# IBM Cloud Pak for Integration: capabilities
 
 
-#TM Forum Open APIs in Cloud Pak for Integration
-
-
-
-#Leverage the API Connect Developer Portal
-
-
-#API Connect Analytics
+# TM Forum Open APIs in Cloud Pak for Integration
 
 
 
-#Infuse AI with IBM Cloud Pak for Data
+# Leverage the API Connect Developer Portal
+
+
+# API Connect Analytics
+
+
+
+# Infuse AI with IBM Cloud Pak for Data
