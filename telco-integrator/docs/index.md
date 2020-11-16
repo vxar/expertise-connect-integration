@@ -1,6 +1,6 @@
-# IBM and the TM Forum API Ecosystem
+# IBM and the TMF API Ecosystem
 
-The Telemanagement Forum, commonly referred to as "TM Forum", is a nonprofit industry association for service providers and their suppliers in the telecommunications and entertainment industries. Members of this association include telephone companies, cable operators, network operators, software suppliers, equipment suppliers and systems integrators. TM Forum members, including the world’s largest service providers and suppliers such as IBM, have been working to develop APIs that support the TM Forum API Ecosystem.
+The Telemanagement Forum, commonly referred to as "TM Forum" or "TMF", is a nonprofit industry association for service providers and their suppliers in the telecommunications and entertainment industries. Members of this association include telephone companies, cable operators, network operators, software suppliers, equipment suppliers and systems integrators. TM Forum members, including the world’s largest service providers and suppliers such as IBM, have been working to develop APIs that support the TM Forum API Ecosystem.
 
 The TM Forum API Ecosystem is a family of over 50 REST APIs designed to make it easier to create,build and operate complex innovative services. This set of standard interfaces enables rapid, repeatable and flexible integration among operations and management systems. The APIs are based on the Business Process Framework (called eTOM), which is a critical component of Frameworx. Designed to enable end-to-end services for today’s digital economy, Frameworx is the TM Forum’s blueprint for successful business transformation.
 
