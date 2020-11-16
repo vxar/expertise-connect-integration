@@ -1,3 +1,3 @@
 # Accelerator Solution Overview
 
-![Order Management](./img/solution-overview.png)
+![Order Management](img/solution-overview.png)
