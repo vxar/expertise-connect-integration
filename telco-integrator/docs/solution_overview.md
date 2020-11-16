@@ -1,3 +1,3 @@
 # Accelerator Solution Overview
 
-<img src="img/solution-overview.png" />
+<img src="../img/solution-overview.png" />
