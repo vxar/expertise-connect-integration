@@ -1,5 +1,5 @@
 site_name: Telco Integrator
-site_url: https://github.com/IBM/expertise-connect-integration/telco-integrator
+site_url: https://github.com/IBM/expertise-connect-integration/
 site_description: describe asset
 theme: material
 nav:
